@@ -160,7 +160,7 @@ Display the contact email address set in the configuration file.
   {% if page.email %}
   {% for email in page.email %}
   {% if forloop.last and page.email.size > 1 %}
-  or
+  and
   {% else %}
   {% unless forloop.first %}
   ,
