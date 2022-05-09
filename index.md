@@ -247,7 +247,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <h3><u>Workshop Preparation</u></h3>
 
 <p>
-  This Google Doc at <a href="https://docs.google.com/document/d/1b3c4Um68zARppshBoxQ5uotrOjG0_Vn50VuVo-Wk1z8/edit?usp=sharing">https://docs.google.com/document/d/1b3c4Um68zARppshBoxQ5uotrOjG0_Vn50VuVo-Wk1z8/edit?usp=sharing</a> holds additional IMPORTANT information on the workshop and how to prepare for it. 
+  This Google Doc at <a href="https://docs.google.com/document/d/1A2lRqSD169z466qz53Dw4CtCZUXe40gZzZs2tGukyPA/edit?usp=sharing">https://docs.google.com/document/d/1A2lRqSD169z466qz53Dw4CtCZUXe40gZzZs2tGukyPA/edit?usp=sharing</a> holds additional IMPORTANT information on the workshop and how to prepare for it. 
 <p>
 
 {% comment %}
