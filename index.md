@@ -86,8 +86,7 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online.
-  The instructors will provide you with the information you will need to connect to this meeting.
+  <strong>Where:</strong> This training will take place in person as well as online. The organizers will provide you with the information you will need to connect to this meeting.
 </p>
 {% endif %}
 
@@ -235,6 +234,8 @@ e.g., '2015-06-10-esu'.
 Note we also have a CodiMD (the open-source version of HackMD)
 available at https://codimd.carpentries.org
 {% endcomment %}
+
+<!--
 {% if page.collaborative_notes %}
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
@@ -243,6 +244,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 </p>
 <hr/>
 {% endif %}
+-->
 
 <h3><u>Workshop Preparation</u></h3>
 
