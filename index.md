@@ -358,8 +358,8 @@ how one of these schedule tables is constructed.
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in the workshop,
-  you will need to have the software listed below on your computer; please install it following the instructions provided for your computer's operating system (Windows, Mac, Unix). If you already have some of it, please uninstall it and then install the versions below - this is the only way to ensure that you will be using the same software as your instructors and fellow KEYS interns. This includes installing UA VPN, regardless of whether you already have another type of vpn software or not.</p>
+  To participate in the workshop, you will need to have the software listed below on your computer; please install it following the instructions provided for your computer's operating system (Windows, Mac, Unix). If you already have some of it, please uninstall it and then install the versions below - this is the only way to ensure that you will be using the same software as your instructors and fellow KEYS interns. This includes installing UA VPN, regardless of whether you already have another type of vpn software or not.</p>
+<p>If, for the duration of the KEYS internship, you have been provided with a laptop by the KEYS program, the necessary software will have been installed on your laptop prior to to the internship; you will not have to install any software for KEYS Training Week. However, please contact your KEYS Crew member if your laboratory requires you to use any software that's not on the laptop so that we can help you install it.</p>
 
 <p>
   In addition, you will need an up-to-date web browser. We recommend Firefox and/or Safari. Chrome may work, too; if you only have Chrome, install Firefox and/or Safari as well. MS Edge or Internet Explorer will not suffice.
