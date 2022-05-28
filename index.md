@@ -240,7 +240,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> to document athe commands we will be usingduring the workshop.
+We will use this <a href="{{ page.collaborative_notes }}">Etherpad</a> as acollaborative document to document the commands we will be using during the workshop as well as posting quizzes and gathering your responses.
 </p>
 <hr/>
 {% endif %}
